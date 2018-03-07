@@ -6,4 +6,4 @@
  * Time: 17:13
  */
 
-echo 'hello word!1111';
+echo 'hello word!';
